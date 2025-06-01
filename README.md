@@ -84,13 +84,13 @@ npm run dev       # Start with nodemon (if configured)
 ## Screenshots
 
 ### Home Page (Venue Grid)
-![Home Page](./assets/home.png)
+![home-page](https://github.com/user-attachments/assets/a222d551-c81d-42c8-b2dc-0c94c5bbbe0a)
 
 ### Venue Details Page
-![Venue Details](./assets/home2.png)
+![venue-detail-page](https://github.com/user-attachments/assets/ad583cbb-0800-4831-bc6e-2d334a0fc923)
 
 ### Add New Listing
-![Add Listing Form](./assets/listing.png)
+![add-new-listing](https://github.com/user-attachments/assets/858be939-bbd2-45fe-a0b6-b2c8a52857dd)
 
 
 ## License
